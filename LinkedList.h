@@ -10,7 +10,7 @@ namespace kw
 	class Node
 	{
 	public:
-		T			mData;
+                T               mData;
 		Node<T>*	mNextNode;
 
 		Node(const T& data)
@@ -40,7 +40,7 @@ namespace kw
 	{
 
 	private:
-		Node<T>*			mHead;
+                Node<T>*                mHead;
 		unsigned int		mSize;
 
 	public:
@@ -58,7 +58,7 @@ namespace kw
 		virtual bool			pop();
 		virtual bool			pop(const int index);
 
-		virtual unsigned int	size()	const;
+                virtual unsigned int            size()	const;
 		virtual bool			empty() const;
 
 		virtual void			clear();
