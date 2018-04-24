@@ -13,6 +13,3 @@ Results
 ------------
 
 ![results](https://user-images.githubusercontent.com/35001605/39052531-48c960a4-44e7-11e8-86f1-623e5cfdab2b.PNG)
-
-
-ㅇ
